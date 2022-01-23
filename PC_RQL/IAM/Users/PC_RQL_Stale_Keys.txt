@@ -1,0 +1,3 @@
+# Prisma Cloud RQL Query for stale keys
+# This query is to help identify old or unused keys that should be disabled or deleted by a cloud administrator.
+# The following steps will outline how to use this query within your Prisma Cloud SaaS tenant.  
